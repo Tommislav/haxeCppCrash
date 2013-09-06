@@ -1,0 +1,7 @@
+I get instant crash when trying to compile my entity engine to cpp and android.
+After several late nights I've managed to get down to the very core of whats causing the
+crash. I am quite new at haxe, and have very basic skills in c++ and need help if this
+issue is a bug in the haxe cpp code generation or if I'm doing something wrong.
+
+/Tommy Salomonsson
+2013-09-06
